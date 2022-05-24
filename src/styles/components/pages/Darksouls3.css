@@ -1,0 +1,127 @@
+.darksoul{
+    color: whitesmoke;
+    width: 600px;
+}
+.sectionds{
+   width: 1920px;
+   height: 1080px;
+   transform: scale(0.8);
+   background-color: black;
+   margin-top: -12%;
+}
+
+
+.card{
+  overflow: hidden;
+  text-align: center;
+  max-width: 40%;
+  float: left;
+  margin-top: 4%;
+ 
+}
+
+.card img{
+  
+  padding: 5%;
+  margin-top: 5%;
+  max-width: 50%;
+  box-shadow: 0 0 5px rgb(82, 82, 82);
+}
+
+.floatr3{
+  position: relative;
+  float: right;
+  width: 60%;
+  padding-right: 4%;
+  margin-top:-30%;
+}
+
+h1{
+  
+  border-bottom: 1px solid grey;
+  padding: 2% 0;
+}
+
+.floatr3 h3{
+  margin: 0 0 24px;
+}
+
+.card2{
+
+  float: right;
+  overflow: hidden;
+  text-align: center;
+  max-width: 40%;
+  margin-top: 5px;
+ 
+}
+
+.card2 img{ 
+  padding: 5%;
+  margin-top: 5%;
+  max-width: 50%;
+  box-shadow: 0 0 5px rgb(82, 82, 82);
+
+}
+
+.sectiondlc1{
+  width: 1920px;
+   height: 1080px;
+   transform: scale(0.8);
+   background-color: black;
+   margin-top: -70%;
+}
+
+.floatl3{
+  position: relative;
+  float: left;
+  width: 60%;
+  padding-left: 4%;
+  margin-top: -18%;
+  
+}
+
+.floatl3 h3{
+     margin: 0 0 24px;
+  
+}
+
+.ashesofariandel{
+  padding-left: 15%;
+}
+
+.ringedcity{
+    padding-left: 15%;
+}
+.floatr4{
+  position: relative;
+  float: right;
+  width: 60%;
+  padding-right: 4%;
+  margin-top:-2%;
+}
+
+.sectiondlc32{
+    width: 1920px;
+   height: 1080px;
+   transform: scale(0.8);
+   background-color: black;
+   margin-top: -36%;
+}
+
+.card3{
+  float: left;
+  overflow: hidden;
+  text-align: center;
+  max-width: 40%;
+  margin-top: -2%;
+  padding-left: 2%;
+}
+
+.card3 img{
+  padding: 5%;
+  margin-top: 5%;
+  max-width: 50%;
+  box-shadow: 0 0 5px rgb(82, 82, 82);
+
+}

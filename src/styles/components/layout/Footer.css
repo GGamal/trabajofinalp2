@@ -1,0 +1,19 @@
+footer{
+    /* position:fixed;
+    bottom: 0;
+    width: 100%; */
+    background-color:rgb(255, 224, 121);
+    clear: both;
+    color: black;
+    padding: 2.5em 0;
+    margin-top: 2em;
+    text-align: center;
+
+}
+
+footer p{
+    font-style: italic;
+    text-align: center;
+    margin: 0;
+    font-size: 0.7e;
+}

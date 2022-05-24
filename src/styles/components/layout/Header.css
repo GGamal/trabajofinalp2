@@ -1,0 +1,32 @@
+header{
+    background-color: black;
+   
+}
+
+.nombre{
+    width: 600px;
+}
+.contenedor{
+    
+    padding-left: 31%;
+}
+
+.login{
+    display: flex;
+    
+    float: right;
+    padding-right: 15%;
+    padding-top: 4%;
+
+}
+
+.usuario{
+    margin-left: 15%;
+    padding-bottom: 8px;
+    width: 90px;
+    border-radius: 30%;
+}
+
+.btn-secondary{
+
+}

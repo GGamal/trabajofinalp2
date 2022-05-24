@@ -1,0 +1,91 @@
+.darksoul2{
+     color: whitesmoke;
+     width: 600px;
+}
+ .sectionds2{
+    width: 1920px;
+    height: 1080px;
+    transform: scale(0.8);
+    background-color: black;
+    margin-top: -12%;
+ }
+
+
+.cardds2{
+   overflow: hidden;
+   text-align: center;
+   max-width: 40%;
+   float: left;
+   margin-top: 4%;
+  
+}
+
+.cardds2 img{
+   
+   padding: 5%;
+   margin-top: 5%;
+   max-width: 50%;
+   box-shadow: 0 0 5px rgb(82, 82, 82);
+}
+
+.floatr2{
+   position: relative;
+   float: right;
+   width: 60%;
+   padding-right: 4%;
+   margin-top:5%;
+}
+
+h1{
+   
+   border-bottom: 1px solid grey;
+   padding: 2% 0;
+}
+
+.floatr2 h3{
+   margin: 0 0 24px;
+}
+
+.card2ds2{
+
+   float: right;
+   overflow: hidden;
+   text-align: center;
+   max-width: 40%;
+   margin-top: 75px;
+   margin-right: 25px;
+  
+}
+
+.card2ds2 img{ 
+   padding: 5%;
+   margin-top: 5%;
+   max-width: 50%;
+   box-shadow: 0 0 5px rgb(82, 82, 82);
+
+}
+
+.sectiondlc2{
+   width: 1920px;
+    height: 1080px;
+    transform: scale(0.8);
+    background-color: black;
+    margin-top: -70%;
+}
+
+.floatl2{
+   position: relative;
+   float: left;
+   width: 60%;
+   padding-left: 4%;
+   
+}
+
+.floatl2 h3{
+      margin: 0 0 24px;
+   
+}
+
+.Scholar{
+    padding-left: 15%;
+}

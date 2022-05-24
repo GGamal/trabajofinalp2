@@ -1,0 +1,23 @@
+.Noticiaspag{
+    display: flex;
+    background-color: black;
+    color: whitesmoke;
+    width: 1300px;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    padding: 2%;
+}
+
+
+
+.pnot{
+    color: whitesmoke;
+    width: 300px;
+}
+
+
+.h2not{
+    color: whitesmoke;
+    margin-left:10%
+}
